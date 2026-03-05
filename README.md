@@ -4,6 +4,8 @@ A script that makes it so you can have custom armor when wearing specific armor 
 KEEP IN MIND, ONLY HELMETS AND DISABLING THE BASE HEAD IS ACTIVE AT THE MOMENT.
 I WILL ADD ANYTHING MISSING SOON.
 
+---------
+
 When I say it is simple, I mean the process is simple. 
 The issue is it is tedious and might increase the size of your file by quite a bit.
 With that, interested in having armor you model and texture when you wear in game armor?
