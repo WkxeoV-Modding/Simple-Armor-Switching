@@ -9,7 +9,7 @@ The issue is it is tedious and might increase the size of your file by quite a b
 With that, interested in having armor you model and texture when you wear in game armor?
 This is for you! The process is simple ish.
 
-
+----------
 
 Put the script titled simpleArmorSwitching.lua in the avatar of your choosing.
 Once done, in your blockbench model, you will group all your original parts into a group called Empty(ModelPart)
@@ -26,6 +26,8 @@ RightArm: RightShoulder
 LeftLeg: LeftPants, LeftBoot
 RightLeg: RightPants, RightBoot
 Ex. LeatherHelmet or TurtleHelmet
+
+-----------
 
 After that, add in whatever additions you want to add. In the offchance you want to completely replace the head when wearing armor there are toggles in place.
 
